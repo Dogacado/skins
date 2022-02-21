@@ -7,4 +7,4 @@ vv-idke skin: https://github.com/Dogacado/skins/raw/main/Aristia(Edit).osk
 
 Dogacado Cosmic skin: https://github.com/Dogacado/skins/raw/main/Cosmic%20Comfort%20V2.8%20(Dogacado%20Ver.).osk
 
-# Dogacado Kanari Skin: https://drive.google.com/file/d/1xNzZtDfJBftdFOqYHVkIhVUcnitKdx0n/view?usp=sharing
+# Latest Dogacado Kanari Skin: https://drive.google.com/file/d/1xNzZtDfJBftdFOqYHVkIhVUcnitKdx0n/view?usp=sharing
